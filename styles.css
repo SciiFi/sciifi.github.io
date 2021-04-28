@@ -1,6 +1,6 @@
 :root {
-	--background: #d6efffff;
-	--primary: #d8de87ff;
+	--background: #d8de87ff;
+	--primary: #d6efffff;
 	--secondary: #fe654fff;
 	--third: #0f084bff;
 }
@@ -10,7 +10,7 @@
 }
 
 body {
-  background: #d6efffff;
+  background: #d8de87ff;
   font-family: 'Waiting for the Sunrise', cursive; 
   font-size:20px; 
   letter-spacing: 6px; 
